@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 #AUTHOR = 'LF'
 SITENAME = 'Less Foolish'
-SITEURL = 'https://lessfoolish.github.io'
+SITEURL = 'https://www.lessfoolish.com'
+#SITEURL = 'https://lessfoolish.github.io'
 
 PATH = 'content'
 

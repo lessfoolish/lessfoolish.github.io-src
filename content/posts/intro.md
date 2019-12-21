@@ -15,4 +15,4 @@ In keeping with the name of this webpage and the idea of a journey through Fooli
 
 [1]: https://www.lesswrong.com/posts/bJ2haLkcGeLtTWaD5/welcome-to-lesswrong
 [2]: https://slatestarcodex.com/
-[3]: https://twitter.com/
+[3]: https://twitter.com/lessfoolish/status/1208185044365279232
